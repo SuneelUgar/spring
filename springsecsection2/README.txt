@@ -1,0 +1,1 @@
+Custom spring security configuration
