@@ -25,7 +25,3 @@ config.setAllowedHeaders(Collections.singletonList("*"));
 
 1) Write JWTTokenGeneratorFilter.java
 2) Write JWTTokenValidatorFilter.java
-
-
-![plot](./filterchain.png)
-
