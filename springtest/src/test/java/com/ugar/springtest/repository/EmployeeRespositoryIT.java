@@ -15,7 +15,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 @DataJpaTest
 @AutoConfigureTestDatabase(replace = AutoConfigureTestDatabase.Replace.NONE)
-public class EmployeeRespositoryIT {
+public class EmployeeRespositoryIT { // extends AbstractContainerBaseTest  (USing Test Container)
 
     @Autowired
     private EmployeeRepository employeeRepository;

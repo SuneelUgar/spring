@@ -12,6 +12,14 @@ BDD style naming convention for test case names.
     public void given_when_then() {
 
     }
+---------------------------------------------------
+-> Test Containers are java library will help in integration testing 
+which can be used for database testing
+-> Docker desktop should be running
+-> @TestContainer and @Container Tags
+-> @DynamicPropertySource will be used to set dyanamic properties
+-> Singleton Container Pattern
+-----------------------------------------------------
 
 ![plot](./springtest.png)
 
